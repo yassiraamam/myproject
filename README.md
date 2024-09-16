@@ -1,3 +1,3 @@
 # myproject
-i'm just learing how to use Github
+noting to see.
 <h3>hello world !</h3>
